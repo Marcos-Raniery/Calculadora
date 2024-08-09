@@ -58,7 +58,7 @@ button_style= {
 #Tipo de borda do botão
     'relief': 'raised',
 #Tamanho da borda
-    'bd': 3,
+    'bd': 2,
 #Largura do botão
     'width': 1,
 #Altura do botão
